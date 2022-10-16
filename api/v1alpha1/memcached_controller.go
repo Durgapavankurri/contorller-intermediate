@@ -34,6 +34,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
 	cachev1alpha1 "github.com/example/memcached-operator/api/v1alpha1"
+	cachev1alpha1 "github.com/Durgapavankurri/contorller-intermediate/api/v1alpha1"
 	// This sample has an example of how to create and work with custom metrics. The code is commented
 	// in order to not break the basic tutorial to show authors how to build an operator.
 	// To enable operator custom metrics, uncomment all sections with 'monitoring'.
